@@ -1,0 +1,11 @@
+age,sex,tumor_size_mm,histology,tnm_stage,thyroidectomy,rai
+45,F,25,Papillary Thyroid Cancer (PTC),Stage I,1,1
+52,M,28,Follicular Thyroid Cancer (FTC),Stage II,1,0
+38,F,15,Papillary Thyroid Cancer (PTC),Stage I,1,1
+60,M,35,Poorly Differentiated,Stage III,1,1
+29,F,20,Papillary Thyroid Cancer (PTC),Stage I,1,0
+55,F,40,Follicular Thyroid Cancer (FTC),Stage II,1,1
+42,M,18,Papillary Thyroid Cancer (PTC),Stage I,1,1
+67,F,50,Poorly Differentiated,Stage IV,1,1
+33,M,22,Follicular Thyroid Cancer (FTC),Stage I,1,0
+48,F,30,Papillary Thyroid Cancer (PTC),Stage II,1,1
