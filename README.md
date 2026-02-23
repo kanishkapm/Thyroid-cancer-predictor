@@ -1,4 +1,4 @@
-# hyroid Cancer Risk Predictor
+# Thyroid Cancer Risk Predictor
 
 A user-friendly Streamlit web application for predicting 5-year survival risk in thyroid cancer patients using explainable AI (SHAP) and machine learning. Designed for doctors, hospital administrators, patients, and researchers.
 
@@ -177,4 +177,5 @@ This application is for **educational and research purposes only**. It is **NOT*
 ---
 
 **Built with ❤️ for better thyroid cancer care**
+
 
